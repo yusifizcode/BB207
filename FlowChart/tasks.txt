@@ -1,0 +1,11 @@
+1. username ve password daxil olunur, username deyeri "Admin" ve password deyeri "Admin123"-durse ekrana 
+"Xosh gelmishsiniz!", eks halda "UserName ve ya password yanlishdir!" yazisini yazdirin.
+2. n ededi daxil olunur, bu ededin 3'e ve 10'a qaliqsiz bolunub bolunmediyini yoxlayin.
+3. a,b,c ededleri daxil olunur, bu ededlerden en boyuyunu tapin.
+
+4. 2 eded daxil olunur, eger ededlerin her ikisi 2'ye qaliqsiz bolunurse, 
+cemini tapirsiniz, eks halda ekrana "daxil olunan ededler cut olmalidir!" yazisini yazdirirsiniz.
+
+5. telebe balini daxil edir bu bala uygun, herf bali tapirsiniz. (Meselen: 91 -> A, 75 -> C)
+
+6. 2 variable daxil olunur value'larinin yerini deyishirsiniz. (Mes: a = 5; b = 10 => a = 10; b = 5)
