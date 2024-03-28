@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CodeAcademy\BB207\ClassIntro\ClassIntro\bin\Debug\net6.0\ClassIntro.exe
+C:\Users\User\Desktop\CodeAcademy\BB207\ClassIntro\ClassIntro\bin\Debug\net6.0\ClassIntro.deps.json
+C:\Users\User\Desktop\CodeAcademy\BB207\ClassIntro\ClassIntro\bin\Debug\net6.0\ClassIntro.runtimeconfig.json
+C:\Users\User\Desktop\CodeAcademy\BB207\ClassIntro\ClassIntro\bin\Debug\net6.0\ClassIntro.dll
+C:\Users\User\Desktop\CodeAcademy\BB207\ClassIntro\ClassIntro\bin\Debug\net6.0\ClassIntro.pdb
+C:\Users\User\Desktop\CodeAcademy\BB207\ClassIntro\ClassIntro\obj\Debug\net6.0\ClassIntro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CodeAcademy\BB207\ClassIntro\ClassIntro\obj\Debug\net6.0\ClassIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeAcademy\BB207\ClassIntro\ClassIntro\obj\Debug\net6.0\ClassIntro.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeAcademy\BB207\ClassIntro\ClassIntro\obj\Debug\net6.0\ClassIntro.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeAcademy\BB207\ClassIntro\ClassIntro\obj\Debug\net6.0\ClassIntro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeAcademy\BB207\ClassIntro\ClassIntro\obj\Debug\net6.0\ClassIntro.dll
+C:\Users\User\Desktop\CodeAcademy\BB207\ClassIntro\ClassIntro\obj\Debug\net6.0\refint\ClassIntro.dll
+C:\Users\User\Desktop\CodeAcademy\BB207\ClassIntro\ClassIntro\obj\Debug\net6.0\ClassIntro.pdb
+C:\Users\User\Desktop\CodeAcademy\BB207\ClassIntro\ClassIntro\obj\Debug\net6.0\ClassIntro.genruntimeconfig.cache
+C:\Users\User\Desktop\CodeAcademy\BB207\ClassIntro\ClassIntro\obj\Debug\net6.0\ref\ClassIntro.dll

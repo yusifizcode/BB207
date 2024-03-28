@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CodeAcademy\BB207\Presentation\InsertionSort\SelecsionSort\bin\Debug\net6.0\SelecsionSort.exe
+C:\Users\User\Desktop\CodeAcademy\BB207\Presentation\InsertionSort\SelecsionSort\bin\Debug\net6.0\SelecsionSort.deps.json
+C:\Users\User\Desktop\CodeAcademy\BB207\Presentation\InsertionSort\SelecsionSort\bin\Debug\net6.0\SelecsionSort.runtimeconfig.json
+C:\Users\User\Desktop\CodeAcademy\BB207\Presentation\InsertionSort\SelecsionSort\bin\Debug\net6.0\SelecsionSort.dll
+C:\Users\User\Desktop\CodeAcademy\BB207\Presentation\InsertionSort\SelecsionSort\bin\Debug\net6.0\SelecsionSort.pdb
+C:\Users\User\Desktop\CodeAcademy\BB207\Presentation\InsertionSort\SelecsionSort\obj\Debug\net6.0\SelecsionSort.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CodeAcademy\BB207\Presentation\InsertionSort\SelecsionSort\obj\Debug\net6.0\SelecsionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeAcademy\BB207\Presentation\InsertionSort\SelecsionSort\obj\Debug\net6.0\SelecsionSort.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeAcademy\BB207\Presentation\InsertionSort\SelecsionSort\obj\Debug\net6.0\SelecsionSort.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeAcademy\BB207\Presentation\InsertionSort\SelecsionSort\obj\Debug\net6.0\SelecsionSort.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeAcademy\BB207\Presentation\InsertionSort\SelecsionSort\obj\Debug\net6.0\SelecsionSort.dll
+C:\Users\User\Desktop\CodeAcademy\BB207\Presentation\InsertionSort\SelecsionSort\obj\Debug\net6.0\refint\SelecsionSort.dll
+C:\Users\User\Desktop\CodeAcademy\BB207\Presentation\InsertionSort\SelecsionSort\obj\Debug\net6.0\SelecsionSort.pdb
+C:\Users\User\Desktop\CodeAcademy\BB207\Presentation\InsertionSort\SelecsionSort\obj\Debug\net6.0\SelecsionSort.genruntimeconfig.cache
+C:\Users\User\Desktop\CodeAcademy\BB207\Presentation\InsertionSort\SelecsionSort\obj\Debug\net6.0\ref\SelecsionSort.dll

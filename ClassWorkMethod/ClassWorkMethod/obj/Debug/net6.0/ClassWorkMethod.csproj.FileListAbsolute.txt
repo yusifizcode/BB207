@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CodeAcademy\BB207\ClassWorkMethod\ClassWorkMethod\bin\Debug\net6.0\ClassWorkMethod.exe
+C:\Users\User\Desktop\CodeAcademy\BB207\ClassWorkMethod\ClassWorkMethod\bin\Debug\net6.0\ClassWorkMethod.deps.json
+C:\Users\User\Desktop\CodeAcademy\BB207\ClassWorkMethod\ClassWorkMethod\bin\Debug\net6.0\ClassWorkMethod.runtimeconfig.json
+C:\Users\User\Desktop\CodeAcademy\BB207\ClassWorkMethod\ClassWorkMethod\bin\Debug\net6.0\ClassWorkMethod.dll
+C:\Users\User\Desktop\CodeAcademy\BB207\ClassWorkMethod\ClassWorkMethod\bin\Debug\net6.0\ClassWorkMethod.pdb
+C:\Users\User\Desktop\CodeAcademy\BB207\ClassWorkMethod\ClassWorkMethod\obj\Debug\net6.0\ClassWorkMethod.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CodeAcademy\BB207\ClassWorkMethod\ClassWorkMethod\obj\Debug\net6.0\ClassWorkMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeAcademy\BB207\ClassWorkMethod\ClassWorkMethod\obj\Debug\net6.0\ClassWorkMethod.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeAcademy\BB207\ClassWorkMethod\ClassWorkMethod\obj\Debug\net6.0\ClassWorkMethod.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeAcademy\BB207\ClassWorkMethod\ClassWorkMethod\obj\Debug\net6.0\ClassWorkMethod.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeAcademy\BB207\ClassWorkMethod\ClassWorkMethod\obj\Debug\net6.0\ClassWorkMethod.dll
+C:\Users\User\Desktop\CodeAcademy\BB207\ClassWorkMethod\ClassWorkMethod\obj\Debug\net6.0\refint\ClassWorkMethod.dll
+C:\Users\User\Desktop\CodeAcademy\BB207\ClassWorkMethod\ClassWorkMethod\obj\Debug\net6.0\ClassWorkMethod.pdb
+C:\Users\User\Desktop\CodeAcademy\BB207\ClassWorkMethod\ClassWorkMethod\obj\Debug\net6.0\ClassWorkMethod.genruntimeconfig.cache
+C:\Users\User\Desktop\CodeAcademy\BB207\ClassWorkMethod\ClassWorkMethod\obj\Debug\net6.0\ref\ClassWorkMethod.dll
