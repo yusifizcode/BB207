@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CodeAcademy\BB207\Delegates\SystemDelegates\bin\Debug\net6.0\SystemDelegates.exe
+C:\Users\User\Desktop\CodeAcademy\BB207\Delegates\SystemDelegates\bin\Debug\net6.0\SystemDelegates.deps.json
+C:\Users\User\Desktop\CodeAcademy\BB207\Delegates\SystemDelegates\bin\Debug\net6.0\SystemDelegates.runtimeconfig.json
+C:\Users\User\Desktop\CodeAcademy\BB207\Delegates\SystemDelegates\bin\Debug\net6.0\SystemDelegates.dll
+C:\Users\User\Desktop\CodeAcademy\BB207\Delegates\SystemDelegates\bin\Debug\net6.0\SystemDelegates.pdb
+C:\Users\User\Desktop\CodeAcademy\BB207\Delegates\SystemDelegates\obj\Debug\net6.0\SystemDelegates.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CodeAcademy\BB207\Delegates\SystemDelegates\obj\Debug\net6.0\SystemDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeAcademy\BB207\Delegates\SystemDelegates\obj\Debug\net6.0\SystemDelegates.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeAcademy\BB207\Delegates\SystemDelegates\obj\Debug\net6.0\SystemDelegates.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeAcademy\BB207\Delegates\SystemDelegates\obj\Debug\net6.0\SystemDelegates.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeAcademy\BB207\Delegates\SystemDelegates\obj\Debug\net6.0\SystemDelegates.dll
+C:\Users\User\Desktop\CodeAcademy\BB207\Delegates\SystemDelegates\obj\Debug\net6.0\refint\SystemDelegates.dll
+C:\Users\User\Desktop\CodeAcademy\BB207\Delegates\SystemDelegates\obj\Debug\net6.0\SystemDelegates.pdb
+C:\Users\User\Desktop\CodeAcademy\BB207\Delegates\SystemDelegates\obj\Debug\net6.0\SystemDelegates.genruntimeconfig.cache
+C:\Users\User\Desktop\CodeAcademy\BB207\Delegates\SystemDelegates\obj\Debug\net6.0\ref\SystemDelegates.dll
