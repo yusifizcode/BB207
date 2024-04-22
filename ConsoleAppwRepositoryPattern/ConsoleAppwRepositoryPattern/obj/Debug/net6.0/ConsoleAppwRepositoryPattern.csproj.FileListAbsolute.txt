@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CodeAcademy\AB204\ConsoleAppwRepositoryPattern\ConsoleAppwRepositoryPattern\bin\Debug\net6.0\ConsoleAppwRepositoryPattern.exe
+C:\Users\User\Desktop\CodeAcademy\AB204\ConsoleAppwRepositoryPattern\ConsoleAppwRepositoryPattern\bin\Debug\net6.0\ConsoleAppwRepositoryPattern.deps.json
+C:\Users\User\Desktop\CodeAcademy\AB204\ConsoleAppwRepositoryPattern\ConsoleAppwRepositoryPattern\bin\Debug\net6.0\ConsoleAppwRepositoryPattern.runtimeconfig.json
+C:\Users\User\Desktop\CodeAcademy\AB204\ConsoleAppwRepositoryPattern\ConsoleAppwRepositoryPattern\bin\Debug\net6.0\ConsoleAppwRepositoryPattern.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\ConsoleAppwRepositoryPattern\ConsoleAppwRepositoryPattern\bin\Debug\net6.0\ConsoleAppwRepositoryPattern.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\ConsoleAppwRepositoryPattern\ConsoleAppwRepositoryPattern\obj\Debug\net6.0\ConsoleAppwRepositoryPattern.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\ConsoleAppwRepositoryPattern\ConsoleAppwRepositoryPattern\obj\Debug\net6.0\ConsoleAppwRepositoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeAcademy\AB204\ConsoleAppwRepositoryPattern\ConsoleAppwRepositoryPattern\obj\Debug\net6.0\ConsoleAppwRepositoryPattern.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\ConsoleAppwRepositoryPattern\ConsoleAppwRepositoryPattern\obj\Debug\net6.0\ConsoleAppwRepositoryPattern.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeAcademy\AB204\ConsoleAppwRepositoryPattern\ConsoleAppwRepositoryPattern\obj\Debug\net6.0\ConsoleAppwRepositoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\ConsoleAppwRepositoryPattern\ConsoleAppwRepositoryPattern\obj\Debug\net6.0\ConsoleAppwRepositoryPattern.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\ConsoleAppwRepositoryPattern\ConsoleAppwRepositoryPattern\obj\Debug\net6.0\refint\ConsoleAppwRepositoryPattern.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\ConsoleAppwRepositoryPattern\ConsoleAppwRepositoryPattern\obj\Debug\net6.0\ConsoleAppwRepositoryPattern.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\ConsoleAppwRepositoryPattern\ConsoleAppwRepositoryPattern\obj\Debug\net6.0\ConsoleAppwRepositoryPattern.genruntimeconfig.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\ConsoleAppwRepositoryPattern\ConsoleAppwRepositoryPattern\obj\Debug\net6.0\ref\ConsoleAppwRepositoryPattern.dll
