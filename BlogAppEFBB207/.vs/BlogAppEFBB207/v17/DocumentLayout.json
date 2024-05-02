@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BlogAppEFBB207\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFC8E42-311C-4C71-A04B-F668A0E7E62E}|Business\\Business.csproj|c:\\users\\user\\desktop\\codeacademy\\bb207\\blogappefbb207\\business\\services\\concretes\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFC8E42-311C-4C71-A04B-F668A0E7E62E}|Business\\Business.csproj|solutionrelative:business\\services\\concretes\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9812E1-B7B4-40E5-ACEB-58E1F8AF2ED9}|BlogAppEFBB207\\BlogAppEFBB207.csproj|c:\\users\\user\\desktop\\codeacademy\\bb207\\blogappefbb207\\blogappefbb207\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9812E1-B7B4-40E5-ACEB-58E1F8AF2ED9}|BlogAppEFBB207\\BlogAppEFBB207.csproj|solutionrelative:blogappefbb207\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DA1917-6688-418C-A36F-10C61F79A2B7}|Data\\Data.csproj|c:\\users\\user\\desktop\\codeacademy\\bb207\\blogappefbb207\\data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DA1917-6688-418C-A36F-10C61F79A2B7}|Data\\Data.csproj|solutionrelative:data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{559C36D3-A4C1-4030-BDED-C359C703D8E2}|Core\\Core.csproj|c:\\users\\user\\desktop\\codeacademy\\bb207\\blogappefbb207\\core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{559C36D3-A4C1-4030-BDED-C359C703D8E2}|Core\\Core.csproj|solutionrelative:core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9812E1-B7B4-40E5-ACEB-58E1F8AF2ED9}|BlogAppEFBB207\\BlogAppEFBB207.csproj|c:\\users\\user\\desktop\\codeacademy\\bb207\\blogappefbb207\\blogappefbb207\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9812E1-B7B4-40E5-ACEB-58E1F8AF2ED9}|BlogAppEFBB207\\BlogAppEFBB207.csproj|solutionrelative:blogappefbb207\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9812E1-B7B4-40E5-ACEB-58E1F8AF2ED9}|BlogAppEFBB207\\BlogAppEFBB207.csproj|c:\\users\\user\\desktop\\codeacademy\\bb207\\blogappefbb207\\blogappefbb207\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9812E1-B7B4-40E5-ACEB-58E1F8AF2ED9}|BlogAppEFBB207\\BlogAppEFBB207.csproj|solutionrelative:blogappefbb207\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFC8E42-311C-4C71-A04B-F668A0E7E62E}|Business\\Business.csproj|c:\\users\\user\\desktop\\codeacademy\\bb207\\blogappefbb207\\business\\services\\concretes\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFC8E42-311C-4C71-A04B-F668A0E7E62E}|Business\\Business.csproj|solutionrelative:business\\services\\concretes\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BlogAppEFBB207\\Business\\Services\\Concretes\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Concretes\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BlogAppEFBB207\\Business\\Services\\Concretes\\CategoryService.cs",
+              "RelativeToolTip": "Business\\Services\\Concretes\\CategoryService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:41:56.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BlogAppEFBB207\\BlogAppEFBB207\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "BlogAppEFBB207\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BlogAppEFBB207\\BlogAppEFBB207\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "BlogAppEFBB207\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:41:33.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BlogAppEFBB207\\Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BlogAppEFBB207\\Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeToolTip": "Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:24:20.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BlogAppEFBB207\\Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BlogAppEFBB207\\Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAD4vykAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:16:12.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BlogAppEFBB207\\Business\\Services\\Concretes\\ProductService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Concretes\\ProductService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BlogAppEFBB207\\Business\\Services\\Concretes\\ProductService.cs",
+              "RelativeToolTip": "Business\\Services\\Concretes\\ProductService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowB0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:12:36.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BlogAppEFBB207\\BlogAppEFBB207\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "BlogAppEFBB207\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BlogAppEFBB207\\BlogAppEFBB207\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "BlogAppEFBB207\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAowEwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:15:20.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BlogAppEFBB207\\BlogAppEFBB207\\Program.cs",
+              "RelativeDocumentMoniker": "BlogAppEFBB207\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BlogAppEFBB207\\BlogAppEFBB207\\Program.cs",
+              "RelativeToolTip": "BlogAppEFBB207\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:09:45.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
