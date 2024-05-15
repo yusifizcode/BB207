@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\ProinaBB207\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCC4D34-FA18-49FC-AB18-CA2DF1F2A48D}|ProinaBB207\\ProinaBB207.csproj|c:\\users\\user\\desktop\\codeacademy\\bb207\\proinabb207\\proinabb207\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFCC4D34-FA18-49FC-AB18-CA2DF1F2A48D}|ProinaBB207\\ProinaBB207.csproj|solutionrelative:proinabb207\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCC4D34-FA18-49FC-AB18-CA2DF1F2A48D}|ProinaBB207\\ProinaBB207.csproj|c:\\users\\user\\desktop\\codeacademy\\bb207\\proinabb207\\proinabb207\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCC4D34-FA18-49FC-AB18-CA2DF1F2A48D}|ProinaBB207\\ProinaBB207.csproj|solutionrelative:proinabb207\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\ProinaBB207\\ProinaBB207\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProinaBB207\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\ProinaBB207\\ProinaBB207\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProinaBB207\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T14:46:08.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\ProinaBB207\\ProinaBB207\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProinaBB207\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\ProinaBB207\\ProinaBB207\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProinaBB207\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:45:28.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

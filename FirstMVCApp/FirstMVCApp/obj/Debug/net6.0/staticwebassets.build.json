@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "xDPNDpqL6NYbW2hk+9UzNugQpx2jZAODJ+DO+N7DWnw=",
+  "Source": "FirstMVCApp",
+  "BasePath": "_content/FirstMVCApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FirstMVCApp\\wwwroot",
+      "Source": "FirstMVCApp",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\FirstMVCApp\\FirstMVCApp\\wwwroot\\",
+      "BasePath": "_content/FirstMVCApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

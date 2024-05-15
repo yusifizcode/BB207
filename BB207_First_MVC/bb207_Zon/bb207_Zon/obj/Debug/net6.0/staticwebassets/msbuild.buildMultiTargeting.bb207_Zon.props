@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\bb207_Zon.props" />
+</Project>

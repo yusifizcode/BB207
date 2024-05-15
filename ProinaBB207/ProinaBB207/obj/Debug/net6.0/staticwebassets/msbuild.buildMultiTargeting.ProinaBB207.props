@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ProinaBB207.props" />
+</Project>

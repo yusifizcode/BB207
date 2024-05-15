@@ -17,7 +17,6 @@ public class CategoryController
         {
             Name = name
         };
-
         _categoryService.AddCategory(category);
     }
 

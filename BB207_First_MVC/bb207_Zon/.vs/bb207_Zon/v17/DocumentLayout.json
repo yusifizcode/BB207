@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BB207_First_MVC\\bb207_Zon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F99DCB20-7828-4D3B-B718-EC7A43A8D721}|bb207_Zon\\bb207_Zon.csproj|C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BB207_First_MVC\\bb207_Zon\\bb207_zon\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F99DCB20-7828-4D3B-B718-EC7A43A8D721}|bb207_Zon\\bb207_Zon.csproj|solutionrelative:bb207_zon\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99DCB20-7828-4D3B-B718-EC7A43A8D721}|bb207_Zon\\bb207_Zon.csproj|c:\\users\\user\\desktop\\codeacademy\\bb207\\bb207_first_mvc\\bb207_zon\\bb207_zon\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F99DCB20-7828-4D3B-B718-EC7A43A8D721}|bb207_Zon\\bb207_Zon.csproj|solutionrelative:bb207_zon\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99DCB20-7828-4D3B-B718-EC7A43A8D721}|bb207_Zon\\bb207_Zon.csproj|c:\\users\\user\\desktop\\codeacademy\\bb207\\bb207_first_mvc\\bb207_zon\\bb207_zon\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F99DCB20-7828-4D3B-B718-EC7A43A8D721}|bb207_Zon\\bb207_Zon.csproj|solutionrelative:bb207_zon\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99DCB20-7828-4D3B-B718-EC7A43A8D721}|bb207_Zon\\bb207_Zon.csproj|c:\\users\\user\\desktop\\codeacademy\\bb207\\bb207_first_mvc\\bb207_zon\\bb207_zon\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99DCB20-7828-4D3B-B718-EC7A43A8D721}|bb207_Zon\\bb207_Zon.csproj|solutionrelative:bb207_zon\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99DCB20-7828-4D3B-B718-EC7A43A8D721}|bb207_Zon\\bb207_Zon.csproj|C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BB207_First_MVC\\bb207_Zon\\bb207_zon\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F99DCB20-7828-4D3B-B718-EC7A43A8D721}|bb207_Zon\\bb207_Zon.csproj|solutionrelative:bb207_zon\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99DCB20-7828-4D3B-B718-EC7A43A8D721}|bb207_Zon\\bb207_Zon.csproj|c:\\users\\user\\desktop\\codeacademy\\bb207\\bb207_first_mvc\\bb207_zon\\bb207_zon\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F99DCB20-7828-4D3B-B718-EC7A43A8D721}|bb207_Zon\\bb207_Zon.csproj|solutionrelative:bb207_zon\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99DCB20-7828-4D3B-B718-EC7A43A8D721}|bb207_Zon\\bb207_Zon.csproj|C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BB207_First_MVC\\bb207_Zon\\bb207_zon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99DCB20-7828-4D3B-B718-EC7A43A8D721}|bb207_Zon\\bb207_Zon.csproj|solutionrelative:bb207_zon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99DCB20-7828-4D3B-B718-EC7A43A8D721}|bb207_Zon\\bb207_Zon.csproj|C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BB207_First_MVC\\bb207_Zon\\bb207_zon\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99DCB20-7828-4D3B-B718-EC7A43A8D721}|bb207_Zon\\bb207_Zon.csproj|solutionrelative:bb207_zon\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BB207_First_MVC\\bb207_Zon\\bb207_Zon\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "bb207_Zon\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BB207_First_MVC\\bb207_Zon\\bb207_Zon\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "bb207_Zon\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T14:44:38.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BB207_First_MVC\\bb207_Zon\\bb207_Zon\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "bb207_Zon\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BB207_First_MVC\\bb207_Zon\\bb207_Zon\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "bb207_Zon\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T14:38:52.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BB207_First_MVC\\bb207_Zon\\bb207_Zon\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "bb207_Zon\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BB207_First_MVC\\bb207_Zon\\bb207_Zon\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "bb207_Zon\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:38:26.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BB207_First_MVC\\bb207_Zon\\bb207_Zon\\Program.cs",
+              "RelativeDocumentMoniker": "bb207_Zon\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BB207_First_MVC\\bb207_Zon\\bb207_Zon\\Program.cs",
+              "RelativeToolTip": "bb207_Zon\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:35:54.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BB207_First_MVC\\bb207_Zon\\bb207_Zon\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "bb207_Zon\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BB207_First_MVC\\bb207_Zon\\bb207_Zon\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "bb207_Zon\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T14:35:54.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BB207_First_MVC\\bb207_Zon\\bb207_Zon\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "bb207_Zon\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BB207_First_MVC\\bb207_Zon\\bb207_Zon\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "bb207_Zon\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T14:35:54.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BB207_First_MVC\\bb207_Zon\\bb207_Zon\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "bb207_Zon\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BB207_First_MVC\\bb207_Zon\\bb207_Zon\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "bb207_Zon\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T14:35:54.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BB207_First_MVC\\bb207_Zon\\bb207_Zon\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "bb207_Zon\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\BB207\\BB207_First_MVC\\bb207_Zon\\bb207_Zon\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "bb207_Zon\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:35:54.964Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

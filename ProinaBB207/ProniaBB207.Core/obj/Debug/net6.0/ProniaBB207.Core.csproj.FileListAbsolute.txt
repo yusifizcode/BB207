@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\CodeAcademy\BB207\ProinaBB207\ProniaBB207.Core\bin\Debug\net6.0\ProniaBB207.Core.deps.json
+C:\Users\User\Desktop\CodeAcademy\BB207\ProinaBB207\ProniaBB207.Core\bin\Debug\net6.0\ProniaBB207.Core.dll
+C:\Users\User\Desktop\CodeAcademy\BB207\ProinaBB207\ProniaBB207.Core\bin\Debug\net6.0\ProniaBB207.Core.pdb
+C:\Users\User\Desktop\CodeAcademy\BB207\ProinaBB207\ProniaBB207.Core\obj\Debug\net6.0\ProniaBB207.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeAcademy\BB207\ProinaBB207\ProniaBB207.Core\obj\Debug\net6.0\ProniaBB207.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeAcademy\BB207\ProinaBB207\ProniaBB207.Core\obj\Debug\net6.0\ProniaBB207.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeAcademy\BB207\ProinaBB207\ProniaBB207.Core\obj\Debug\net6.0\ProniaBB207.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeAcademy\BB207\ProinaBB207\ProniaBB207.Core\obj\Debug\net6.0\ProniaBB207.Core.sourcelink.json
+C:\Users\User\Desktop\CodeAcademy\BB207\ProinaBB207\ProniaBB207.Core\obj\Debug\net6.0\ProniaBB207.Core.dll
+C:\Users\User\Desktop\CodeAcademy\BB207\ProinaBB207\ProniaBB207.Core\obj\Debug\net6.0\refint\ProniaBB207.Core.dll
+C:\Users\User\Desktop\CodeAcademy\BB207\ProinaBB207\ProniaBB207.Core\obj\Debug\net6.0\ProniaBB207.Core.pdb
+C:\Users\User\Desktop\CodeAcademy\BB207\ProinaBB207\ProniaBB207.Core\obj\Debug\net6.0\ref\ProniaBB207.Core.dll
+C:\Users\User\Desktop\CodeAcademy\BB207\ProinaBB207\ProniaBB207.Core\obj\Debug\net6.0\ProniaBB207.Core.csproj.AssemblyReference.cache
