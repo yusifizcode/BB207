@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Eflyer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C227FFA-6F6C-444E-97BC-33778016A8F1}|Eflyer\\Eflyer.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer\\areas\\admin\\controllers\\electroniccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C227FFA-6F6C-444E-97BC-33778016A8F1}|Eflyer\\Eflyer.csproj|solutionrelative:eflyer\\areas\\admin\\controllers\\electroniccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C227FFA-6F6C-444E-97BC-33778016A8F1}|Eflyer\\Eflyer.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer\\areas\\admin\\views\\electronic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C227FFA-6F6C-444E-97BC-33778016A8F1}|Eflyer\\Eflyer.csproj|solutionrelative:eflyer\\areas\\admin\\views\\electronic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0FAF1D-85FD-4477-B9FA-38D0DCC05FCA}|Eflyer.Data\\Eflyer.Data.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0FAF1D-85FD-4477-B9FA-38D0DCC05FCA}|Eflyer.Data\\Eflyer.Data.csproj|solutionrelative:eflyer.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C227FFA-6F6C-444E-97BC-33778016A8F1}|Eflyer\\Eflyer.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C227FFA-6F6C-444E-97BC-33778016A8F1}|Eflyer\\Eflyer.csproj|solutionrelative:eflyer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293CAC02-E60A-459D-9D31-86BF76DCEE83}|Eflyer.Business\\Eflyer.Business.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer.business\\services\\concretes\\electronicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293CAC02-E60A-459D-9D31-86BF76DCEE83}|Eflyer.Business\\Eflyer.Business.csproj|solutionrelative:eflyer.business\\services\\concretes\\electronicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C227FFA-6F6C-444E-97BC-33778016A8F1}|Eflyer\\Eflyer.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C227FFA-6F6C-444E-97BC-33778016A8F1}|Eflyer\\Eflyer.csproj|solutionrelative:eflyer\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293CAC02-E60A-459D-9D31-86BF76DCEE83}|Eflyer.Business\\Eflyer.Business.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer.business\\services\\abstracts\\ielectronicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293CAC02-E60A-459D-9D31-86BF76DCEE83}|Eflyer.Business\\Eflyer.Business.csproj|solutionrelative:eflyer.business\\services\\abstracts\\ielectronicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4979715-ECD3-4614-95FF-708426DD46AD}|Eflyer.Core\\Eflyer.Core.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer.core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4979715-ECD3-4614-95FF-708426DD46AD}|Eflyer.Core\\Eflyer.Core.csproj|solutionrelative:eflyer.core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Eflyer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Eflyer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T23:41:47.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Areas\\Admin\\Views\\Electronic\\Index.cshtml",
+              "RelativeDocumentMoniker": "Eflyer\\Areas\\Admin\\Views\\Electronic\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Areas\\Admin\\Views\\Electronic\\Index.cshtml",
+              "RelativeToolTip": "Eflyer\\Areas\\Admin\\Views\\Electronic\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T23:30:27.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ElectronicController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Areas\\Admin\\Controllers\\ElectronicController.cs",
+              "RelativeDocumentMoniker": "Eflyer\\Areas\\Admin\\Controllers\\ElectronicController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Areas\\Admin\\Controllers\\ElectronicController.cs",
+              "RelativeToolTip": "Eflyer\\Areas\\Admin\\Controllers\\ElectronicController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T23:30:01.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Eflyer\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Eflyer\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T23:29:54.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ElectronicService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Business\\Services\\Concretes\\ElectronicService.cs",
+              "RelativeDocumentMoniker": "Eflyer.Business\\Services\\Concretes\\ElectronicService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Business\\Services\\Concretes\\ElectronicService.cs",
+              "RelativeToolTip": "Eflyer.Business\\Services\\Concretes\\ElectronicService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAMwB8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T23:29:33.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IElectronicService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Business\\Services\\Abstracts\\IElectronicService.cs",
+              "RelativeDocumentMoniker": "Eflyer.Business\\Services\\Abstracts\\IElectronicService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Business\\Services\\Abstracts\\IElectronicService.cs",
+              "RelativeToolTip": "Eflyer.Business\\Services\\Abstracts\\IElectronicService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T23:29:22.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Eflyer.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "Eflyer.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAMwC0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T23:24:00.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Eflyer.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeToolTip": "Eflyer.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T23:23:40.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
